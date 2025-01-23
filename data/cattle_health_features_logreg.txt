@@ -1,0 +1,13 @@
+body_temperature
+breed_type
+milk_production
+respiratory_rate
+walking_capacity
+sleeping_duration
+body_condition_score
+heart_rate
+eating_duration
+lying_down_duration
+ruminating
+rumen_fill
+faecal_consistency
