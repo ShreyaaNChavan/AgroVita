@@ -26,15 +26,20 @@ By improving cattle health management and farm productivity, AgroVita aims to en
 - **Visual Tools**: Offer visual tools and dashboards to present data insights clearly.
 
 ## Example Output
+### Home Page
+![Health Monitoring Dashboard](Outputs/Home.jpg)
 
 ### Health Monitoring Dashboard
-![Health Monitoring Dashboard](./Outputs/health_monitoring_dashboard.png)
+![Health Monitoring Dashboard](Outputs/HealthP.jpg)
 
 ### Weather Data Integration
-![Weather Data Integration](images/weather_data_integration.png)
+![Weather Data Integration](Outputs/weather.jpg)
 
 ### Yield Prediction Results
-![Yield Prediction Results](images/yield_prediction_results.png)
+![Yield Prediction Results](Outputs/yields.jpg)
+
+### Yield Prediction Visualization Results
+![Yield Prediction Results](Outputs/yieldplott.jpg)
 
 ## Getting Started
 1. **Clone the repository**:
